@@ -1,2 +1,2 @@
 # reactRouter
-Created with CodeSandbox
+Kodluyoruz React dersleri için kullanılan repository
